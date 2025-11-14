@@ -1,0 +1,7 @@
+{
+  "name": "SmartStock",
+  "description": "An offline-first inventory management web application that allows users to track products, manage stock levels, and scan barcodes using their device's camera. All data is stored locally for complete offline functionality.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
